@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Selenium/JAR-File/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JAR-File/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JAR-File/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JAR-File/Sauce-Connect.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JAR-File/selenium-java-2.42.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JAR-File/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/JAR-File/testng-6.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
